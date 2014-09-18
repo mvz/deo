@@ -17,3 +17,6 @@
 
 # Ignore RSpec config.
 /.rspec
+
+# Ignore bundler lock file, since who knows if this will ever go to production.
+Gemfile.lock
